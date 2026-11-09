@@ -1,3 +1,9 @@
+# New functionality in V02
+
+Veeva Vault RIM Config Documenter V02 introduces a new menu option for tracking component changes. By pressing 4 + Left Mouse Button, the application records information about components that were created or modified within the relevant time period.
+
+This enables end-to-end tracking of configuration changes across an entire cycle and allows the collected information to be exported as a Word document for documentation, review, or audit purposes.
+
 # Veeva Vault RIM Config Documenter
 
 Chrome and Microsoft Edge browser extension (Manifest V3) for Veeva Vault Administrators and Configuration Engineers. It records configuration steps, UI navigation paths, screenshots, and modified components (`vault_component__v`) while you work in Vault, and exports everything into a formatted Microsoft Word (`.docx`) document.
