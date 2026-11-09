@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128">
+  <!-- Authentic Veeva Vault RIM Deep Navy (#14233C) + Sunrise Orange (#F7941D) + Royal Blue (#1959A8) Icon -->
+  <rect x="6" y="6" width="116" height="116" rx="18" fill="#14233C"/>
+  <!-- Top Sunrise Orange Accent Bar -->
+  <rect x="6" y="6" width="116" height="20" rx="18" fill="#F7941D"/>
+  <rect x="6" y="16" width="116" height="10" fill="#F7941D"/>
+
+  <!-- White Config Sheet -->
+  <path d="M28 24 H78 L98 44 V104 A4 4 0 0 1 94 108 H28 A4 4 0 0 1 24 104 V28 A4 4 0 0 1 28 24 Z" fill="#FFFFFF"/>
+  <path d="M78 24 V44 H98 Z" fill="#D8DDE6"/>
+
+  <!-- Signature 2px Orange Section Line inside Document -->
+  <rect x="34" y="36" width="36" height="3.5" rx="1" fill="#F7941D"/>
+
+  <!-- Veeva Orange "V" Emblem -->
+  <path d="M36 48 L46 72 L56 48" fill="none" stroke="#F7941D" stroke-width="6.5" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Config Lines -->
+  <rect x="64" y="50" width="24" height="5" rx="1.5" fill="#14233C"/>
+  <rect x="64" y="62" width="18" height="5" rx="1.5" fill="#6B778C"/>
+  <rect x="36" y="81" width="50" height="5" rx="1.5" fill="#14233C"/>
+  <rect x="36" y="93" width="36" height="5" rx="1.5" fill="#6B778C"/>
+
+  <!-- Veeva Royal Blue (+ Create) Action Badge in Bottom-Right -->
+  <circle cx="96" cy="96" r="18" fill="#1959A8" stroke="#14233C" stroke-width="4"/>
+  <path d="M96 88 V104 M88 96 H104" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round"/>
+</svg>
